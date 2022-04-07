@@ -1,0 +1,6 @@
+# ignore Mac system files, ide
+.idea/
+.DS_store
+# ignore dataset files
+/tensorflow-great-barrier-reef/train_images
+tensorflow-great-barrier-reef.zip
