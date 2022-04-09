@@ -1,0 +1,8 @@
+path: tensorflow-great-barrier-reef/train_images  # dataset root dir
+train: /Users/ivannovgorodtsev/PycharmProjects/reef/tensorflow-great-barrier-reef/train_images/video_0  # train images (relative to 'path') 128 images
+val: /Users/ivannovgorodtsev/PycharmProjects/reef/tensorflow-great-barrier-reef/train_images/video_1  # val images (relative to 'path') 128 images
+test:  # test images (optional)
+
+# Classes
+nc: 1  # number of classes
+names: ['starfish']  # class names
